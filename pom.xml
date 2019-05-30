@@ -111,12 +111,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://104.197.25.162:8081/repository/SAMPLE-REL/</url>
+            <url>http://104.197.25.162:8081/repository/test-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://104.197.25.162:8081/repository/SAMPLE-SNAP/</url>
+            <url>http://104.197.25.162:8081/repository/test-snap/</url>
         </snapshotRepository>
     </distributionManagement>	
 </project>
